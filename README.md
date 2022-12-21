@@ -6,6 +6,8 @@ Laravel Poloniex.
 
 Implementasi API Poloniex Exchange dengan menggunakan Laravel.
 
+![Front Page](https://github.com/irfansyah-r/laravel-poloniex/blob/main/preview/Front.png?raw=true)
+
 ## Getting Started
 
 ### Dependencies
